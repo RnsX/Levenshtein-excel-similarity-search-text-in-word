@@ -1,3 +1,4 @@
+```
 Function Levenshtein(s1 As String, s2 As String) As Integer
     Dim i As Integer, j As Integer
     Dim l1 As Integer, l2 As Integer
@@ -99,5 +100,5 @@ Sub FuzzyMatchTextToWord()
 
     MsgBox "Fuzzy comparison with similarity % complete!"
 End Sub
-
+```
 
